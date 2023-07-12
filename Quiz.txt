@@ -1,0 +1,11 @@
+What is the difference between var and let?
+Unlike var, let cannot be redeclared. Also, a var can be accessed before it is disfined in the code, due to it being a hoisted variable.
+
+What is the difference between var and const?
+Unlike var, const cannot be reassigned or redeclared. Also, a var can be accessed before it is defined in the code, due to it being a hoisted variable.
+
+What is the difference between let and const?
+Unlike let, const cannot be reassigned.
+
+What is hoisting?
+When a varaiable is able to be accessed before it is defined in the code.
